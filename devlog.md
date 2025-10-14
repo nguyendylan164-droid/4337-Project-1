@@ -7,4 +7,5 @@ Once interactive mode works I plan to switch to batch mode.
 
 10/14/2025
 3:48 PM
-Today, I am going to begin working on the project I plan to layout the functions I need to use and work from there.
+I plan to layout the functions I will need and work on them one by one.
+I'm choosing to start with defining the eval-expr function which will do the actual calculations.
