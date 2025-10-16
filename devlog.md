@@ -16,7 +16,7 @@ Transitioning from programming in imperative languages to a functional language 
 10/15/2025
 10:51 AM
 Today, I plan to better familiarize myself with racket before I actually start working on the project.
-2:15
+2:15 PM
 I finished my main loop, now I have to implement the calculation functions.
 
 10/16/2025
