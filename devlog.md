@@ -3,7 +3,7 @@ Session 0
 11:54 AM 
 As far as I understand, this project is creating a prefix-notation calculator using Racket which is a functional programming language.
 I can either choose to run the program in two modes: interactive and batch.
-Currently, I am leaning towards running the program in interactive mode first, in order to test expressions.
+Currently, I plan on running the program in interactive mode first, in order to test expressions.
 Once interactive mode works I plan to switch to batch mode.
 
 Session 1
@@ -19,6 +19,7 @@ Session 2
 10/15/2025
 10:51 AM
 This session, I plan to better familiarize myself with racket before I actually start working on the project.
+At the same time, I am going to brainstorm my functions.
 2:15 PM
 I watched some videos on racket and I was able to finished my main loop even though it wasn't a part of the goal.
 Next, I plan to implement the calculation functions which I think will be the hardest part.
@@ -34,5 +35,16 @@ I finished the "evaluate-expression" function and layed out more functions: "par
 Next session I will finish the "parse-expression" and "skip-whitespace" functions.
 
 Session 4
+10/17/2025
+7:04 PM
+I am going to start on the "parse-expression" which will actually do the calculations, and finish "skip-whitespace". I am also going to layout my final functions "parse-number" and "history". So far my project has been coming along smoothly and it seems that the end is nearing.
+10:41 PM
+I finished my "skip-whitespace" function but I didn't finish my "parse-expression", because I think it would be a better idea to do "parse-number" first because then "parse-expression" relies on "parse-number" heavily. Therefore, next session I plan to finish my "parse-number" function and then start on "parse-expression".
+
+Session 5
+10/20/2025
+7:41 PM
+I am nearing the end of the project and so far it has gone smoothly. For this session, I'm going to finish "parse-number" and start "parse-expression". I also want to run tests before I start on the "history" function in order to ensure everything is working properly.
+
 
 
