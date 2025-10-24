@@ -5,6 +5,7 @@ This Racket program calculates prefix notations.
 ## INSTALLATION
 Prerequisites
   - Racket/DrRacket
+    
 Setup
   - Save the code as calculator.rkt
   - Run from command line or DrRacket
