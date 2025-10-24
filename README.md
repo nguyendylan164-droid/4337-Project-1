@@ -30,7 +30,13 @@ Exiting the program
 
 "/" - Division: / 4 2 = 2
 
+## History References
 History references using $n syntax
+
+History IDs:
+  - Start at 1
+  - Increment with each successful calculation
+  - Not affected by errors
 
 ## Examples
 Basic Usage
