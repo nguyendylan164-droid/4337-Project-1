@@ -49,6 +49,10 @@ Basic Usage
 > * 5 6
 
 2: 30.0
+
+> + -5 2
+
+3: -3
 ```
 Using History
 ```
