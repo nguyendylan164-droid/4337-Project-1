@@ -75,7 +75,7 @@ So far, I've completed addition, multiplication, and division for "parse-express
 
 6:48 PM
 
-I have finished my "parse-expression function, but I have yet to implement the history reference. I tested the program without history, and I had some syntax errors, but now it seems to be working well with the expected outputs. Finally, I will finish the history reference and run tests. 
+My way of doing subraction is by adding a negative number, EX: "+ 3 -1 = 2". Now, my "parse-expression" function is finished, but I have yet to implement the history reference. I tested the program without history, and I had some syntax errors, but now it seems to be working well with the expected outputs. Finally, I will finish the history reference and run tests. 
 
 9:25 PM
 
