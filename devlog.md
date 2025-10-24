@@ -12,7 +12,6 @@ Session 1
 I plan to lay out the functions I will need and work on them one by one. I'm choosing to start with implementing the main loop and "evaluate-expression" function, which will do the actual calculations.
 
 11:12 PM
-
 This session, I failed to meet my goal of implementing the main loop and "evaluate-expression" function. Transitioning from programming in imperative languages to a functional language is proving difficult, because they are more different than I thought. Next session, I plan to better familiarize myself with racket by watching videos and following the Racket guide.
 
 
